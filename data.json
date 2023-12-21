@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "John Doe", "age": 25, "isStudent": false},
+    {"id": 2, "name": "Jane Smith", "age": 30, "isStudent": true},
+    {"id": 3, "name": "Bob Johnson", "age": 22, "isStudent": true},
+    {"id": 4, "name": "Alice Brown", "age": 28, "isStudent": false},
+    {"id": 5, "name": "Charlie Wilson", "age": 35, "isStudent": false}
+]
